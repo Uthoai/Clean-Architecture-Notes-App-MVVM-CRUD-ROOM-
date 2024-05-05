@@ -1,7 +1,8 @@
-package com.best.top.free.notes.app
+package com.best.top.free.notes.app.view
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.best.top.free.notes.app.R
 
 class AddNoteActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
