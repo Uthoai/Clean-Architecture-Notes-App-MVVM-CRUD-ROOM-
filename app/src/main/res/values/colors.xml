@@ -8,4 +8,14 @@
     <color name="itemBg">#201F1F</color>
     <color name="taskOnGoingText">#F5F5F5</color>
     <color name="taskCompleteText">#7A7777</color>
+
+    //Note random color
+    <color name="yellow">#FFEB3B</color>
+    <color name="pink">#F811F5</color>
+    <color name="lavender">#894DF3</color>
+    <color name="orange">#FF5722</color>
+    <color name="blue">#007AFF</color>
+    <color name="skyBlue">#17B5DD</color>
+    <color name="green">#39EC40</color>
+
 </resources>
