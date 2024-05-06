@@ -71,7 +71,7 @@ class NoteAdapter(private val context: Context,private val listener: NotesItemCl
         fullList.addAll(newList)
         noteList.clear()
         noteList.addAll(fullList)
-        //notifyDataSetChanged()
+        notifyDataSetChanged()
     }
 
     fun filterList(search: String){
